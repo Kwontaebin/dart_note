@@ -1,0 +1,33 @@
+name: note
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # https://pub.dev/packages/sqflite
+  sqflite: ^2.2.8
+
+  # https://pub.dev/packages/mysql_client
+  mysql_client: ^0.0.27
+
+  http:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
