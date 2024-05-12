@@ -75,7 +75,6 @@ class _SearchNoteMainState extends State<SearchNoteMain> {
                     ),
                   );
                 },
-
               ),
             ),
           ),
